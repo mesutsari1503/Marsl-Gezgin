@@ -1,0 +1,6 @@
+c:\users\msi-pc\source\repos\MartianTraveller\Service\obj\Debug\Service.csprojAssemblyReference.cache
+c:\users\msi-pc\source\repos\MartianTraveller\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+c:\users\msi-pc\source\repos\MartianTraveller\Service\bin\Debug\Service.dll
+c:\users\msi-pc\source\repos\MartianTraveller\Service\bin\Debug\Service.pdb
+c:\users\msi-pc\source\repos\MartianTraveller\Service\obj\Debug\Service.dll
+c:\users\msi-pc\source\repos\MartianTraveller\Service\obj\Debug\Service.pdb

@@ -1,0 +1,10 @@
+c:\users\msi-pc\source\repos\MartianTraveller\MartianTraveller\bin\Debug\MartianTraveller.exe.config
+c:\users\msi-pc\source\repos\MartianTraveller\MartianTraveller\bin\Debug\MartianTraveller.exe
+c:\users\msi-pc\source\repos\MartianTraveller\MartianTraveller\bin\Debug\MartianTraveller.pdb
+c:\users\msi-pc\source\repos\MartianTraveller\MartianTraveller\obj\Debug\MartianTraveller.csprojAssemblyReference.cache
+c:\users\msi-pc\source\repos\MartianTraveller\MartianTraveller\obj\Debug\MartianTraveller.csproj.CoreCompileInputs.cache
+c:\users\msi-pc\source\repos\MartianTraveller\MartianTraveller\obj\Debug\MartianTraveller.exe
+c:\users\msi-pc\source\repos\MartianTraveller\MartianTraveller\obj\Debug\MartianTraveller.pdb
+c:\users\msi-pc\source\repos\MartianTraveller\MartianTraveller\bin\Debug\Service.dll
+c:\users\msi-pc\source\repos\MartianTraveller\MartianTraveller\bin\Debug\Service.pdb
+c:\users\msi-pc\source\repos\MartianTraveller\MartianTraveller\obj\Debug\MartianTraveller.csproj.CopyComplete
